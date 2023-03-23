@@ -1,7 +1,7 @@
 {
   "name": "react-website",
   "private": true,
-  "homepage": "http://err03.github.io",
+  "homepage": ".",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
